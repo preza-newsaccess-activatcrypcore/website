@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[33],{Kmak:function(e,a,t){"use strict";t.r(a);t("91GP");var n=t("q1tI"),s=t.n(n),c=t("P6tc");a.default=function(e){return s.a.createElement(c.Medusa,Object.assign({theme:"dark",className:"medusa-container headerVisualisation",camPosZ:600,colorPalette:["#ff7676","#5281f7","#ffffff"]},e))}}}]);
-//# sourceMappingURL=medusa__visualisation-4c3e6fd0a0241144b27f.js.map
