@@ -1,0 +1,1 @@
+(function(){document.createElement('IMG').src='https://checkout.simplexcc.com/simplex-logo.png?ref='+encodeURIComponent(document.referrer)})();
